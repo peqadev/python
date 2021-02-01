@@ -10,5 +10,5 @@ El intérprete de Python es fácilmente extensible con funciones y tipos de dato
 
 ## Contenido
 
-1. [ ¿Por qué aprender Python?](./1.por_que_apredner_python.md)
-1. [ Instalar python](./2.instalar_python.md)
+1. [ ¿Por qué aprender Python?](doc/1.por_que_aprender_python.md)
+1. [ Instalar python](doc/2.instalar_python.md)
