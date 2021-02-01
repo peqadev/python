@@ -8,7 +8,7 @@ El intérprete de Python y la extensiva librería estándar se encuentran dispon
 
 El intérprete de Python es fácilmente extensible con funciones y tipos de datos implementados en C o C++ (o otros lenguajes que permitan ser llamados desde C). Python también es apropiado como un lenguaje para extender aplicaciones modificables.
 
-## Contenido
+## Contenido
 
 1. [ ¿Por qué aprender Python?](./1.por_que_apredner_python.md)
 1. [ Instalar python](./2.instalar_python.md)
